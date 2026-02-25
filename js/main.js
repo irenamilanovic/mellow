@@ -400,7 +400,7 @@ function checkCheckedElements(elementValue, element, p){
 
 // FOOTER
 
-let socialsLink = ["facebook.com", "instagram.com", "sitemap.xml", "Dokumentacija.pdf"];
+let socialsLink = ["https://www.facebook.com", "https://www.instagram.com", "sitemap.xml", "Dokumentacija.pdf"];
 let socialsIcon = ["fab fa-facebook-f", "fab fa-instagram", "fas fa-sitemap", "far fa-file-pdf"];
 
 let socialsPrint = `
